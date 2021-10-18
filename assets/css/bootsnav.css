@@ -1327,3 +1327,15 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked {
         padding-bottom: 30px;
     }
 }
+
+@media (min-width: 1200px) {
+    .About .widget_service {
+        display: none !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .About .widget_service {
+        display: none !important;
+    }
+}
