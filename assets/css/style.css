@@ -814,7 +814,7 @@ textarea::-ms-input-placeholder {
 
 
 /*.img-bg{
-  background: url('home-msg.jpg') no-repeat center top fixed;
+  background: url(home-msg.jpg) no-repeat center top fixed;
   background-size
   -moz-background-size: cover;
   -webkit-background-size: cover;
