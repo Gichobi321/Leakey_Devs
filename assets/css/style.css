@@ -814,7 +814,7 @@ textarea::-ms-input-placeholder {
 
 
 /*.img-bg{
-  background: url('images/home-msg.jpg') no-repeat center top fixed;
+  background: url('home-msg.jpg') no-repeat center top fixed;
   background-size
   -moz-background-size: cover;
   -webkit-background-size: cover;
@@ -1164,7 +1164,7 @@ Featured section style
 /*Business Section*/
 
 .business {
-    background: url('images/business-bg.jpg') no-repeat top center;
+    background: url('business-bg.jpg') no-repeat top center;
     background-size: cover;
     position: relative;
 }
@@ -1400,7 +1400,7 @@ work Section style
 ======================*/
 
 .test {
-    background: url('images/test-bg.jpg') no-repeat top center;
+    background: url('test-bg.jpg') no-repeat top center;
     background-size: cover;
     position: relative;
 }
