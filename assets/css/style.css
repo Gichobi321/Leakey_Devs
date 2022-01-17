@@ -1052,7 +1052,7 @@ Home Section style
 ==================*/
 
 .home {
-    background: url('home-bg.png') no-repeat top center;
+    background: url(home-bg.png) no-repeat top center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
@@ -1164,7 +1164,7 @@ Featured section style
 /*Business Section*/
 
 .business {
-    background: url('business-bg.jpg') no-repeat top center;
+    background: url(business-bg.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
 }
