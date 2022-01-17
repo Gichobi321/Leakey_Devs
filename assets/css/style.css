@@ -1052,7 +1052,7 @@ Home Section style
 ==================*/
 
 .home {
-    background: url(home-bg.png) no-repeat top center;
+    background: url(home.png) no-repeat top center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
